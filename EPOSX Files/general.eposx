@@ -1,0 +1,24 @@
+<eposx title="Treetagger" wordSeparator="_" ambiguitySeparator="`">  <!-- Codes cannot contain any of these special characters -->
+  <userTags>
+  	<tag code="sym" name="Symbol"/>
+  </userTags>
+
+  <markups>
+	<markup text="ADJ" code="adj" />
+	<markup text="ADP" code="prep" />
+	<markup text="ADV" code="adv" />
+	<markup text="AUX" code="v.aux" />
+	<markup text="CCONJ" code="conj.coord" />
+	<markup text="DET" code="det" />
+	<markup text="INTJ" code="interj" />
+	<markup text="NOUN" code="n" />
+	<markup text="NUM" code="num" />
+	<markup text="PART" code="ptcl" />
+	<markup text="PRON" code="pron" />
+	<markup text="PROPN" code="n.prop" />
+	<markup text="SCONJ" code="conj.subord" />
+	<markup text="VERB" code="v" />
+	<markup text="SYM" code="oth.sym"/>
+	<markup text="X" code="uncl" />
+  </markups>
+</eposx>
